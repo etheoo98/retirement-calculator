@@ -1,5 +1,5 @@
 # retirement-calculator
-A simple console application made for a beginners programming course. 
+A simple console application made for a beginner's programming course. 
 
 ## Assignment description
 ### This assignment is (at least) about:
